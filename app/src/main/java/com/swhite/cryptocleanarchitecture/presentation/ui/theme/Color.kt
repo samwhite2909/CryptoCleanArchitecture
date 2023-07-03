@@ -1,4 +1,4 @@
-package com.swhite.cryptocleanarchitecture.ui.theme
+package com.swhite.cryptocleanarchitecture.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
